@@ -198,3 +198,20 @@
                     color: #FFFFFF;
                     margin-left: 10px;
                 }
+                /* Home Footer  */
+                
+                .footer {
+                    width: 100%;
+                    margin-top: 60px;
+                }
+                
+                .footer__images {
+                    width: 80%;
+                    display: flex;
+                    margin: auto;
+                }
+                
+                .footer__images img {
+                    width: 140px;
+                    margin-right: 20px;
+                }
